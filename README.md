@@ -4,7 +4,7 @@ This is a testing repository
 '''json
 [
     {
-        "name": "",
+        "name": "s",
         "lecturer": "",
         "size": ,
         "availableTimeSlots": {
@@ -17,3 +17,4 @@ This is a testing repository
     },
     // Add more module entries here
 ]
+$mvn
